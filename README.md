@@ -3,12 +3,23 @@
 </br>
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=2&height=200&section=header&text=Ungbbi&fontSize=70&fontColor=d6ace9&theme=tokyonight)
 </br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23AAACE3&title_bg=%237B628E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Ungbbi)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ungbbi&count_bg=%23AAACE3&title_bg=%237B628E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Ungbbi)
 </br>
-<div align="center">Tech
+___
+# <div align="center">*Tech*</div></br>
+
+## Programming Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+___
+
+  
 </div>
 
-d
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungbbi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungbbi&hide=contribs,prs&show_icons=true&theme=tokyonight)
 

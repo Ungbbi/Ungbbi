@@ -10,12 +10,14 @@ I aspire to become an **Infrastructure, Cloud, and DevOps Engineer**</br>
 I’m currently studying **Networking, Infrastructure, Virtualization, and Pipeline development**.</br></br>
 
 Thank you for visiting my GitHub.</br>
-Please contact me via the Gmail address below!!!.</br>
+If you'd like to contact me, please click the badge below!! </br></br>
 <a href="mailto:mandarin1999@tukorea.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mandarin1999@tukorea.ac.kr"/></a>
 </br>
 
 ### ✏️ Projects
-
+I've organized the projects that I personally planned and worked on while learning.</br>
+If you'd like to take a look, please click the badge below!!</br></br>
+<a href="https://github.com/Ungbbi/Project-Portfolio"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Ungbbi/Project-Portfolio"/></a>
 ___
 # <div align="center"> 🛠️ *Tech* 🛠️</div>
 ### 💻 Languages & Frameworks

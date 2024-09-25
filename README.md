@@ -1,14 +1,9 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=30&pause=1000&color=1B5F7DB5&width=435&lines=Hope+you+have+a+great+day!)](https://git.io/typing-svg)
-</br>
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=2&height=200&section=header&text=Ungbbi&fontSize=70&fontColor=d6ace9&theme=tokyonight)
 </br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ungbbi&count_bg=%23AAACE3&title_bg=%237B628E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Ungbbi)
 </br>
 ___
-# <div align="center"> 🛠️ *Tech* 🛠️</div></br>
-
 ### 🔍 Introduce
 Hello, my name is **Ungbin Park**.</br>
 I aspire to become an **Infrastructure, Cloud, and DevOps Engineer**</br>
@@ -22,6 +17,7 @@ Please contact me via the Gmail address below!!!.</br>
 ### ✏️ Projects
 
 ___
+# <div align="center"> 🛠️ *Tech* 🛠️</div>
 ### 💻 Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
 

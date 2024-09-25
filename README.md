@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=2&height=200&section=header&text=Ungbbi&fontSize=70&fontColor=d6ace9&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=2&height=200&section=header&text=Ungbbi&fontSize=70&fontColor=d6ace9&theme=gruvbox_light)
 </br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ungbbi&count_bg=%23AAACE3&title_bg=%237B628E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Ungbbi)
@@ -34,8 +34,8 @@ ___
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungbbi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungbbi&hide=contribs,prs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungbbi&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungbbi&hide=contribs,prs&show_icons=true&theme=moltack)
 
 
 <!--

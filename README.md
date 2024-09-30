@@ -35,7 +35,7 @@ ___
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungbbi&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungbbi&hide=contribs,prs&show_icons=true&theme=moltack)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungbbi&show_icons=true&theme=moltack)
 
 
 <!--
